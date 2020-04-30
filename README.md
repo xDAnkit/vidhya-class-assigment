@@ -17,3 +17,4 @@ This is a an assignment demo repository
 - [x] Assign to `reviewer` 
 - [ ] `Merge` if no issues
 - [ ] Fix issues if any suggested by **reviewer**
+- [ ] Not able to commit branch & local changes
